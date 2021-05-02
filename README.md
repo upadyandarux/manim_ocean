@@ -1,5 +1,11 @@
 # manim_ocean
 
-Partial Differential Equation compiled by using Python with Manim as its library. The program was about Parabolic PDE in terms of diffusion
+These programs were made to fulfill the needs for completing two subjects in Oceanography Major.
+MatosI.py for completing Mathematical Methods in Oceanography I
+MatosIIScene1-10.py and MatosIIScene11-20.py for completing Mathematical Methods in Oceanography II
 
-# Enjoy!
+All of these were compiled by using Python with Manim as its library
+MatosI will show you what is Eigenvectors and Eigenvalue is
+While MatosII will show you what is Diffusion in scope of PDE (Partial Differential Equation) is
+
+Enjoy!

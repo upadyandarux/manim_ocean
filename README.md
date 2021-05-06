@@ -9,4 +9,4 @@ MatosI will show you what is Eigenvectors and Eigenvalue whilst MatosII will sho
 
 Enjoy!
 
-PS: Cheers for our great lecturers, Aditya R. Kartadikaria + Faizal Ade R. A. whose able to transform this courses with this kind of method :D
+PS: Cheers for our great lecturers, Aditya R. Kartadikaria + Faizal Ade R. A. whose able to transform this courses using this kind of method :D

@@ -1,4 +1,5 @@
 # This code was made by Dimas Naufal W.
+# With a lil bit of change from Dhimas Upadyandaru
 
 from manimlib import *
 import numpy as np

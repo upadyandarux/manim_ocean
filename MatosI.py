@@ -1,5 +1,6 @@
-#SCRIPT CODE EIGEN VALUE DAN EIGEN VEKTOR
-#KELOMPOK:
+#Eigenvalue - Eigenvector Script
+
+#Coders:
     # Dhimas Upadyandaru
     # Michael Bertrand Altawirano Wibisono
     # Zulfikar Kartadimadja

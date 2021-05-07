@@ -1,4 +1,5 @@
 # This code was made by M. Ridho Novrian
+# With a lil bit of change from Dhimas Upadyandaru
 
 from big_ol_pile_of_manim_imports import *
 #from manimlib.imports import *

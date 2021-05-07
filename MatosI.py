@@ -1,5 +1,9 @@
 #SCRIPT CODE EIGEN VALUE DAN EIGEN VEKTOR
-#KELOMPOK : DHIMAS, BERTRAND, AL FAUZAN, ZULFIKAR KARTADIMAJA
+#KELOMPOK:
+    # Dhimas Upadyandaru
+    # Michael Bertrand Altawirano Wibisono
+    # Zulfikar Kartadimadja
+    # Ahmad Al Fauzan
 
 from manimlib.imports import *
 from pathlib import Path
@@ -958,3 +962,8 @@ class tambahan(Scene):
 if __name__== '__main__':
     script_name = f"{Path(__file__).resolve()}"
     os.system(f"python -m manim {script_name} {SCENE} {FLAGS}")
+
+    #DEBUGGER CREDITS
+    
+    # M. Ali Syaifudin from ITB - Astronomy '16
+    # M. Taufiqurrahman from UGM - Electronic and Instrumentation '14
